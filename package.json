@@ -1,0 +1,21 @@
+{
+  "name": "instagram-slideshow",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.7.1",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://5767714d2d52714b1d000035@nehasohail-weddinginsta.rhcloud.com/~/git/nehasohail.git/"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
